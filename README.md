@@ -27,6 +27,6 @@
 |자료구조|알고리즘 개요|3|
 |소프트웨어세미나 1|최신소프트웨어 트렌드|1|
 
-github address : [IcebergSheep][github]
+github address: [IcebergSheep][github]
 
-[github] : https://github.com/IcebergSheep
+[github]:https://github.com/IcebergSheep
