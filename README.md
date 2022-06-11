@@ -31,7 +31,7 @@
 * 2022.4 교내학술동아리 씨애랑 자바교육 활동
 * 2022.5 교내학술동아리 씨애랑 태그팀 팀교육 활동
 
-# *PLAN*
+# 📚*PLAN*
 - 정보처리기사 취득
 github address: [IcebergSheep][github]
 
