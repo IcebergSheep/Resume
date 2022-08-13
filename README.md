@@ -4,7 +4,7 @@
 * 이름 : 이소미
 * 소속 : 소프트웨어융합대학
 * 전공 : 콘텐츠 IT 전공
-* E-MAIL : somi7586@naver.com
+* E-MAIL : ehal0108@gmail.com
 
 - 관심분야
   - 인공지능
